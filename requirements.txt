@@ -1,0 +1,15 @@
+pip
+ipython
+install-jdk
+wheel
+awscli
+pyspark==3.3.0
+polars
+pandas
+pyarrow
+numpy
+requests
+pprintpp
+Cython
+jupyter
+tox
